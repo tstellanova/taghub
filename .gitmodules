@@ -1,0 +1,3 @@
+[submodule "lib/beacon_scan"]
+	path = lib/beacon_scan
+	url = https://github.com/particle-iot/beacon-scanner-library
